@@ -1,7 +1,0 @@
-### Libraries to be installed ###.
-
-1. Go to Board Manager and type `esp32`, Select Version `2.0.17` and Install.
-2. Go to Library Manager and type `NewPing`, Select Version `1.9.7` and Install.
-3. Go to Library Manager and type `FastLED`, Select Version `3.7.0` and Install.
-4. Go to Library Manager and type `ESP32Servo`, Select Version `1.2.1` and Install.
-5. Go to Library Manager and type `Adafruit TCS34725`, Select Version `1.4.4`and Install.
