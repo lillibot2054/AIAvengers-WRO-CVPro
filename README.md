@@ -73,7 +73,7 @@ Our bot uses the following components:
 ## 🔧 How to Run
 
 1. Connect the bot to your computer using a **USB Type-C cable**.
-2. Open **Arduino IDE** and select the board: `Do It Yourself Devkit (ESP32)`
+2. Open **Arduino IDE** and select the board: `Devkit (ESP32)`
 3. Select the correct **COM port**.
 4. Open and upload your program (`.ino` file).
 5. Switch on the bot.
